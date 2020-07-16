@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace HPM
 { 
     /**
-     * Interfaces kann man sich als abstraket Klassen vorstellen die Signaturen von Methoden, Properties, Indexern
+     * Interfaces kann man sich als abstrakte Klassen vorstellen die Signaturen von Methoden, Properties, Indexern
      * und Events enthalten, Sie dürfen keine Felder, Konstanten, Konstruktoren, Destruktoren und überladene Operatoren
      * aufweisen. Sie sind reine Sammlungen von Operationen. Sie erlauben es Typen die in keiner Vererbungsbeziehung stehen
      * gleichartig zu behandeln.
